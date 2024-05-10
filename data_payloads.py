@@ -22,3 +22,6 @@ payload_urls = [
     ("TEXT2", '', ["piu", "pi-piu"], {"rating": 111, "fun": 22}),
     ('TEXT3', 'http://mail.ru@ru.ru.ru',["piu", "pi-piu"], {"rating": 333, "fun": 33})
 ]
+
+bad_token = '0000'
+none_meme_id = 00000
